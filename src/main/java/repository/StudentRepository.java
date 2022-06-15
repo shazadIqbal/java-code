@@ -31,6 +31,7 @@ public class StudentRepository extends  DataBaseConnection{
                 Student student = new Student(id,name,age,gender);
 
                 studentList.add(student);
+                System.out.println(student);
             }
 
         // Step 6 # close connection
