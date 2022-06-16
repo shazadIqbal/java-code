@@ -11,6 +11,10 @@ public class JdbcTest {
 
          new ViewStudent();
         System.out.println("shahzad");
+        System.out.println("shahzad");
+        System.out.println("shahzad");
+        System.out.println("shahzad");
+        System.out.println("shahzad");
 
     }
 }
